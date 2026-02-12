@@ -15,5 +15,5 @@ Puedes ver el roadmap del proyecto [aqui](https://github.com/orgs/Sembrem-prj/pr
 
 | Apartado | Enlace |
 | :--- | :--- |
-| **Frontend** | [Enlace](https://tu-url-aqui.com) |
-| **Backend** | [Enlace](https://tu-url-aqui.com) |
+| **Frontend** | Enlace |
+| **Backend** | Enlace|
