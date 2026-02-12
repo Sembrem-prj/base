@@ -1,4 +1,5 @@
-# Projecte Sembrem
+<h1 align="center">Projecte Sembrem</h1>
+
 ## Descripcion del proyecto
 Descripción TO molonga y dura de pelotas
 
