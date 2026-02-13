@@ -5,7 +5,8 @@ actor Admin as ad
 
 rectangle "Módulo Admin" {
 ad -- (Subir logo empresa)
-ad -- (Designar roles)
+ad -- (Verificar identidad)
+ad -- (Bloquear cuenta)
 ad -- (Dar de alta psicólogo)
 }
 
