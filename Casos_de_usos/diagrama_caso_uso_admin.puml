@@ -1,0 +1,12 @@
+@startuml Admin
+left to right direction
+
+actor Admin as ad
+
+rectangle "Módulo Admin" {
+ad -- (Subir logo empresa)
+ad -- (Designar roles)
+ad -- (Dar de alta psicólogo)
+}
+
+@enduml

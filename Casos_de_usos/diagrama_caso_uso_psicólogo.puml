@@ -1,0 +1,16 @@
+@startuml Psicologo
+left to right direction
+
+actor Psicologo as ps
+
+rectangle "Módulo Psicólogo" {
+ps -- (Crear enlace invitado)
+ps -- (Ver listado pacientes)
+ps -- (Ver registro paciente)
+ps -- (Ver estadísticas paciente)
+ps -- (Exportar datos paciente)
+ps -- (Eliminar registro)
+ps -- (Cambiar logo PNG)
+}
+
+@enduml
