@@ -12,7 +12,7 @@ ps -- (Ver registro paciente)
 ps -- (Ver estadísticas paciente)
 ps -- (Exportar datos paciente)
 ps -- (Eliminar registro)
-ps -- (Cambiar logo PNG)
+ps -- (Cambiar logo SVG)
 }
 
 @enduml

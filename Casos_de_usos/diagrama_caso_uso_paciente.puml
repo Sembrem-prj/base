@@ -9,9 +9,9 @@ pa -- (Introducir datos)
 pa -- (Ver estadísticas)
 pa -- (Registrarse por enlace)
 pa -- (Acceder al panel)
-pa -- (Exportar datos)
+pa -- (Exportar datos*?)
 pa -- (Guardar registro)
-pa -- (Eliminar cuenta)
+pa -- (Eliminar cuenta - cuenta desactivada)
 }
 
 @enduml
