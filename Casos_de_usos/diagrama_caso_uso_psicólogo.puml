@@ -4,6 +4,8 @@ left to right direction
 actor Psicologo as ps
 
 rectangle "Módulo Psicólogo" {
+ps -- (Contratar plan)
+ps -- (Gestionar perfil propio)
 ps -- (Crear enlace invitado)
 ps -- (Ver listado pacientes)
 ps -- (Ver registro paciente)
