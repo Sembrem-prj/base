@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 8. Anexos
+title: 7. Anexos
 ---
-# 8. Anexos
+# 7. Anexos
 
 - Cronograma
 - Encuestas

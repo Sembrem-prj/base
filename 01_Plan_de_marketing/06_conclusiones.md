@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 7. Conclusiones
+title: 6. Conclusiones
 ---
-# 7. Conclusiones
+# 6. Conclusiones
 
 - Viabilidad del plan
 - Coherencia del proyecto

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 6. Control
+title: 5. Control
 ---
-# 6. Control y Evaluación
+# 5. Control y Evaluación
 
 - Indicadores (KPI)
 - Métodos de seguimiento

@@ -1,25 +1,44 @@
 ---
 layout: default
-title: Ficha 01 - Posicionamiento
+title: 2. Estrategia
 ---
-# Plan de empresa
+# 2. Estrategia de Marketing
 
-## 1. ¿Qué calidad va a tener el producto/servicio?
+## 2.1. Segmentación del Mercado
 
-> ¿Qué calidad va a tener el producto/servicio: *alta – media – baja*?
+### 2.1.1. Criterios de segmentación
+
+En este apartado veremos los criterios de segmentación:
+
+- Demográficos
+- Geográficos
+- Psicográficos
+- Conductuales
+
+## 2.2. Público Objetivo (Target)
+
+- Perfil de Cliente ideal / Buyer persona
+
+## 2.3. Posicionamiento (FICHA 01)
+
+### Justificación
+
+Queremos resolver este problema creando una aplicación que permita a los psicólogos y terapeutas gestionar y analizar los datos de sus pacientes de forma digital y a los pacientes que puedan ver sus datos en un solo lugar.
+
+### Calidad del producto/servicio
 
 Aspiramos a una **calidad alta** porque el **bienestar de los pacientes** y la **eficacia de los psicólogos** son nuestra prioridad.
 
 Más que una *app*, queremos crear un **espacio digital de apoyo y confianza**.
 
-### 1.1 Materialización de la calidad
+#### Materialización de la calidad
 
 La calidad se materializa a través de:
 
 1. **Análisis automático de patrones**
     Aporta **inteligencia a los datos**, ahorrando *tiempo* y revelando `insights`, es decir, una comprensión profunda y reveladora sobre los patrones de comportamietno del paciente.
 
-2. **Datos en el dispositivo y exportación**
+2. **Datos en el dispositivo and exportación**
     Ofreciendo **control** y **privacidad** al paciente mediante el almacenamiento local y la posibilidad de `exportar datos`.
 
 3. **Diseño amigable (UX/UI)**
@@ -28,9 +47,7 @@ La calidad se materializa a través de:
 4. **Registro detallado de episodios**
     Permite una **captura de información granulada** —`qué`, `cuándo`, `intensidad`, `antes/después`, `qué sintió`— resultando **útil y relevante para la terapia**.
 
-## 2. ¿A qué precio se va a vender?
-
-> ¿A qué precio se va a vender: *alta – media – baja*?
+### Precio de venta
 
 Proponemos un **precio medio-alto**, diferenciándonos de las *aplicaciones de bajo coste*.
 Fijando dicho precio según la **estrategia del mapa de posicionamiento**, ocuparíamos un **nicho de mercado**, evitando dos extremos claramente definidos:
@@ -38,54 +55,25 @@ Fijando dicho precio según la **estrategia del mapa de posicionamiento**, ocupa
 1. El cuadrante de **precio bajo**, ocupado por *apps genéricas* de **calidad baja–media**.
 2. El cuadrante de **precio alto**, ocupado por *softwares complejos de gestión clínica* que, a menudo, carecen de un **diseño amigable** para el *paciente*.
 
-### 2.1 Enfoque del modelo de negocio
+#### Enfoque del modelo de negocio
 
 Dado que la aplicación nace para servir como solución a una **asociación (SEMBREM)**, nuestro modelo de negocio debe ser `sostenible` y estar **centrado en el cliente profesional**.
 Por ello, no competimos por ser la opción *más barata*, sino por ofrecer el mejor **`valor percibido`**.
 
-### 2.2 Justificación del precio
+#### Justificación del precio
 
 Justificamos el **precio medio-alto** con el claro **retorno de la inversión (`ROI`)** que obtienen nuestros clientes, materializado en:
 
 1. **Ahorro de tiempo**
 2. **Mayor eficacia terapéutica**
 
-## 3. ¿Qué valor queremos que perciban los clientes en nuestro producto/servicio?
-
-> Es importante recordar que **no es lo mismo calidad que `calidad percibida`**, ya que esta última depende en gran medida del **marketing** y de la **experiencia del usuario**.
-
-Queremos que el **valor percibido** vaya más allá del *software* y se base en una forma de **acompañamiento terapéutico** más cercano y *empático*, incluso dentro del entorno digital.
-
-### 3.1 Objetivo de percepción del producto
-
-Por esta razón, nuestro objetivo es que la aplicación sea percibida de la siguiente manera:
-
-1. **Para el paciente**
-   Como un **compañero de viaje** *discreto*, *cercano* y `sin juicios`.
-   Un **espacio de confianza** donde puede ser totalmente honesto, que le ayude a:
-   * Poner nombre a lo que siente
-   * Entender su propio proceso
-
-   Es una herramienta que **le da poder y voz** dentro de su proceso terapéutico.
-
-2. **Para el psicólogo**
-   Como un **aliado estratégico** que potencia su *intuición*.
-   No es una máquina para `reemplazar` su trabajo, sino una **lente de aumento** que:
-   * Aporta **claridad** sobre los datos del día a día del paciente
-   * Reduce la **carga de gestión de información**
-   * Permite dedicar más tiempo a la **conexión humana**
-
-### 3.2 Valor percibido global
-
-Por todo esto, el **valor percibido** de la aplicación es el de ser un **puente de confianza y entendimiento** entre el *paciente* y el *profesional*.
-
-## 4. ¿Qué otros productos/servicios existen como el nuestro en el mercado?
+### Competencia y soluciones existentes
 
 En el mercado actual del **bienestar digital** y la **psicología** existen varias soluciones que cubren *partes del problema*, pero **no lo abordan de forma completa** como nuestra propuesta.
 
 Podemos agruparlas en **tres grandes bloques**:
 
-### 4.1 **Software de gestión clínica**
+#### **Software de gestión clínica**
 
 1. **Ejemplos**
     * [Eholo](https://www.eholo.health/)
@@ -100,7 +88,7 @@ Podemos agruparlas en **tres grandes bloques**:
 3. **Nuestra solución**
     No queremos que el paciente *“rellene datos”*, sino que lo haga sintiendo que utiliza un **diario de bienestar** *amigable* y cercano.
 
-### 4.2 Aplicaciones de consumo
+#### Aplicaciones de consumo
 
 1. **Ejemplos**
     * [Daylio](https://daylio.net/)
@@ -119,7 +107,7 @@ Podemos agruparlas en **tres grandes bloques**:
       * Permitir que el paciente sea dueño de sus propios datos en su móvil, pero esta decida compartirlos de forma cifrada con su terapeuta de SEMBREM.
       * Conectamos los **datos** con el *terapeuta* o *psicólogo de Alzira (SEMBRE)* de forma `segura`.
 
-### 4.3 El autorregistro clásico
+#### El autorregistro clásico
 
 1. **Ejemplos**
     Papel y boli.
@@ -132,8 +120,42 @@ Podemos agruparlas en **tres grandes bloques**:
     Ofrecemos **análisis automático de patrones** mediante `gráficos`, junto con una **interfaz moderna** que el soporte tradicional no puede proporcionar.
     Mientras que el paciente suele rellenar el papel antes de entrar a la consulta, la app permite registrar el episodio justo cuanto ocurre.
 
-## 5. Dibuja en el mapa de posicionamiento
+### 2.3.1. Propuesta de valor
 
-> Dibuja en el mapa de posicionamiento de calidad/precio donde estaría ubicado tu producto/servicio, así como los productos/servicio de la competencia
+Es importante recordar que **no es lo mismo calidad que `calidad percibida`**, ya que esta última depende en gran medida del **marketing** y de la **experiencia del usuario**.
 
-![mapa_de_posicionamiento_de_calidad_precio](./assets/svg/posicionamiento/mapa_de_posicionamiento_de_calidad_precio.svg)
+Queremos que el **valor percibido** vaya más allá del *software* y se base en una forma de **acompañamiento terapéutico** más cercano y *empático*, incluso dentro del entorno digital.
+
+#### Objetivo de percepción del producto
+
+Por esta razón, nuestro objetivo es que la aplicación sea percibida de la siguiente manera:
+
+1. **Para el paciente**
+   Como un **compañero de viaje** *discreto*, *cercano* y `sin juicios`.
+   Un **espacio de confianza** donde puede ser totalmente honesto, que le ayude a:
+   * Poner nombre a lo que siente
+   * Entender su propio proceso
+
+   Es una herramienta que **le da poder y voz** dentro de su proceso terapéutico.
+
+2. **Para el psicólogo**
+   Como un **aliado estratégico** que potencia su *intuición*.
+   No es una máquina para `reemplazar` su trabajo, sino una **lente de aumento** que:
+   * Aporta **claridad** sobre los datos del día a día del paciente
+   * Reduce la **carga de gestión de información**
+   * Permite dedicar más tiempo a la **conexión humana**
+
+#### Valor percibido global
+
+Por todo esto, el **valor percibido** de la aplicación es el de ser un **puente de confianza y entendimiento** entre el *paciente* y el *profesional*, bajo un **modelo SaaS (Software as a Service)** que garantiza la actualización y el soporte continuo.
+
+### 2.3.2. Mapa de posicionamiento
+
+![mapa_de_posicionamiento_de_calidad_precio](./Fichas/assets/svg/posicionamiento/mapa_de_posicionamiento_de_calidad_precio.svg)
+
+## 2.4. Estrategia General
+
+!!! Tip
+    - Estrategia de crecimiento (Ansoff): [Matriz de Ansoff - ESIC](https://www.esic.edu/rethink/marketing-y-comunicacion/que-es-la-matriz-de-ansoff-para-que-sirve-ejemplos-c)
+    - Estrategia competitiva (liderazgo en costes, diferenciación, enfoque): [Estrategia competitiva - OBS](https://www.obsbusiness.school/blog/estrategia-competitive-definicion-tipos-y-planteamiento)
+    - Estrategia de marca (si aplica): [Brand Strategy - Amazon Advertising](https://advertising.amazon.com/es-es/library/guides/brand-strategy)
