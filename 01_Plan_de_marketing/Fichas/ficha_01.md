@@ -1,3 +1,7 @@
+---
+layout: default
+title: Ficha 01 - Posicionamiento
+---
 # Plan de empresa
 
 ## 1. ¿Qué calidad va a tener el producto/servicio?

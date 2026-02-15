@@ -1,3 +1,7 @@
+---
+layout: default
+title: Ficha 04 - Distribución
+---
 # FICHA 04 - EL CANAL DE DISTRIBUCIÓN
 
 ## 1. Distribución

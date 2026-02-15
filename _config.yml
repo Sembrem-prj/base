@@ -1,0 +1,24 @@
+title: Sembrem - Plan de Marketing
+description: Plan de Marketing para el proyecto Sembrem
+baseurl: "" # El baseurl se ajustará según si es repo de usuario o proyecto
+url: "" # Dejar vacío para local, GitHub Actions lo manejará o se puede poner la URL final
+
+# Configuración de Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Exclusiones
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .github
+  - .git
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
