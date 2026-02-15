@@ -13,4 +13,4 @@ Uno de los problemas que hemos detectado es que los psicólogos y terapeutas usa
 
 Queremos resolver este problema creando una aplicación que permita a los psicólogos y terapeutas gestionar y analizar los datos de sus pacientes de forma digital y a los pacientes que puedan ver sus datos en un solo lugar.
 
-[Falta debatir los objetivos]: # 
+[Falta definir a que queremos apuntar]: # 

@@ -6,8 +6,23 @@ title: 3. Acciones
 
 ## 3.1. Producto / Servicio (Ficha 02)
 
-- Características
-- Diseño y valor añadido
+### Características
+
+La aplicación consiste en un sistema de seguimiento que permita centralizar los datos de los pacientes y ayudar a los profesionales a gestionar y analizar los datos de sus pacientes de forma digital.
+
+Las principales características de la aplicación son:
+
+- Para el paciente, un panel de control para gestionar los datos del paciente.
+- Para el profesional, un panel de control para gestionar los datos del paciente.
+- Los datos se almacenan en el dispositivo del usuario de forma local y se exportan en formato CSV.
+
+
+### Diseño y valor añadido
+- Se ofrece un acceso seguro a los datos del usuario mediante una autenticación con Google.
+- Navegación intuitiva y amigable, queremos no abrumar al usuario con demasiada información.
+- Análisis automático de patrones.
+- Sincronización con la nube para que el profesional pueda acceder a los datos desde cualquier dispositivo.
+- Autenticación de usuarios con Google.
 
 ## 3.2. Precio (Ficha 03)
 
