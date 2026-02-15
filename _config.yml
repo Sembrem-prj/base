@@ -1,6 +1,6 @@
 title: Sembrem - Plan de Marketing
 description: Plan de Marketing para el proyecto Sembrem
-baseurl: "" # El baseurl se ajustará según si es repo de usuario o proyecto
+baseurl: "/base" # Ajustado para el subpath de GitHub Pages
 url: "" # Dejar vacío para local, GitHub Actions lo manejará o se puede poner la URL final
 
 # Configuración de Markdown
