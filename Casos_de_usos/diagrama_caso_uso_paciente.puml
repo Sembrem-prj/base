@@ -5,7 +5,7 @@ actor Paciente as pa
 
 rectangle "Módulo Paciente" {
 
-pa -- (Registrarse mediante enlace de invitación)
+pa -- (Registrarse mediante código de invitación)
 pa -- (Iniciar sesión)
 pa -- (Rellenar formulario post-sesión)
 pa -- (Solicitar eliminación de cuenta)

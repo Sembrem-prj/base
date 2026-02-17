@@ -6,6 +6,7 @@ actor Psicologo as ps
 rectangle "Módulo Psicólogo" {
 
 ps -- (Contratar o renovar plan)
+pa -- (Iniciar sesión)
 ps -- (Gestionar perfil profesional)
 ps -- (Generar enlace de invitación)
 
