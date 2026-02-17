@@ -1,7 +1,9 @@
-# Diagrama de casos de uso
+# Diseño
 
-# Diseño de la app
+## Diagrama de casos de uso
 
-# Especificacones funcionales (tabla)
+## Diseño de la app
+
+## Especificacones funcionales (tabla)
 
 Funcionalidad | Prioridad | Descripción

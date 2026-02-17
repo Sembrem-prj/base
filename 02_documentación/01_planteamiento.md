@@ -1,7 +1,9 @@
-# Resumen entrevista
+# Planteamiento
 
-# Problemas detectados
+## Resumen entrevista
 
-# Propuesta solución técnica
+## Problemas detectados
 
-# Esquema funcional inicial
+## Propuesta solución técnica
+
+## Esquema funcional inicial
